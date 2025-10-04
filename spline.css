@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: #000; /* optional, helps confirm no gaps */
+}
+
+.spline {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+.spline-section {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
