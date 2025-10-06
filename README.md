@@ -1,6 +1,6 @@
-# Happy Birthday Mumma J1 - Landing Page
+# Happy Birthday Mumma Ji - Landing Page
 
-A beautiful, animated birthday landing page created to celebrate Mumma J1's special day. This responsive web page features animations, interactive elements, and a festive design.
+A beautiful, animated birthday landing page created to celebrate Mumma Ji's special day. This responsive web page features animations, interactive elements, and a festive design.
 
 ## Features
 
@@ -62,4 +62,4 @@ This landing page is compatible with all modern browsers including:
 
 ---
 
-Created with ❤️ for Mumma J1's birthday
+Created with ❤️ for Mumma Ji's birthday
